@@ -1,0 +1,1 @@
+This is a generic version of the scripts I used as part of my analysis of Nietzsche's _Ecce Homo_. I describe the project [here](https://briandomino.com/EH_BERTopic.html). Apart from that project, this script is of minimal value.
